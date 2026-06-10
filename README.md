@@ -177,10 +177,7 @@ CROP_RECOMMENDATION_SYSTEM_ML/
 **Aniya Benny**
 Data Science Learner | Python | Machine Learning | Power BI | Tableau
 
-Connect on [LinkedIn](#) | View more projects on [GitHub](https://github.com/aniya-benny)
+Connect on www.linkedin.com/in/aniya-benny-51504a252 | View more projects on [GitHub](https://github.com/aniya-benny)
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
